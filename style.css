@@ -762,65 +762,65 @@ li {
 }
 
 .botonmas {
-  
+  background-color: #ba2727;
   position: absolute;
   width: 54px;
   height: 54px;
   border-radius: 50%;
-  margin-top: 82px;
+  margin-top: 113px;
   margin-left: 459px;
   z-index: 150;
   cursor: pointer;
 }
 
 #bm2 {
-  margin-top: 143px;
+  margin-top: 174px;
   margin-left: 527px;
 }
 
 #bm3 {
-  margin-top: 216px;
+  margin-top: 246px;
   margin-left: 559px;
 }
 
 #bm4 {
-  margin-top: 296px;
+  margin-top: 327px;
   margin-left: 559px;
 }
 
 #bm5 {
-  margin-top: 379px;
+  margin-top: 410px;
   margin-left: 516px;
 }
 
 
 #bm6 {
-  margin-top: 82px;
+  margin-top: 113px;
   margin-left: 329PX;
 }
 
 #bm7 {
-  margin-top: 143px;
+  margin-top: 174px;
   margin-left: 262PX;
 }
 
 #bm8 {
-  margin-top: 216px;
+  margin-top: 246px;
   margin-left: 229PX;
 }
 
 #bm9 {
-  margin-top: 296px;
+  margin-top: 327px;
   margin-left: 229PX;
 }
 
 #bm10 {
-  margin-top: 379px;
+  margin-top: 410px;
   margin-left: 270PX;
 }
 
 #bm11 {
-  margin-top: -4px;
+  margin-top: 27px;
   margin-left: 349PX;
   width: 200px;
   height: 63px;
