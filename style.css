@@ -670,7 +670,7 @@ ul {
   margin-left: 273px;
   padding-left: 10px;
   width: 38%;
-  height: 26%;
+  height: 30%;
   background-color: #fff;
   color: #000;
   border: #000 solid 2px;
@@ -691,53 +691,54 @@ ul {
 
 .texto2 {
   width: 38%;
-  height: 23%;
+  height: 26%;
 }
 
 
 .texto3 {
   width: 38%;
-  height: 27%;
+  height: 30%;
+  text-align: justify;
 }
 
 .texto4 {
   width: 38%;
-  height: 20%;
+  height: 23%;
 }
 
 .texto5 {
   width: 38%;
-  height: 20%;
+  height: 24%;
 }
 
 .texto6 {
   width: 38%;
-  height: 20%;
+  height: 24%;
 }
 
 .texto7 {
   width: 38%;
-  height: 40%;
+  height: 44%;
 }
 
 .texto8 {
   width: 38%;
-  height: 30%;
+  height: 34%;
 }
 
 .texto9 {
   width: 38%;
-  height: 17%;
+  height: 21%;
 }
 
 .texto10 {
   width: 38%;
-  height: 36%;
+  height: 40%;
 }
 
 .texto11 {
   width: 38%;
-  height: 39%;
+  height: 27%;
 }
 
 h3 {
